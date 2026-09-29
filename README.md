@@ -13,7 +13,7 @@ The application establishes a connection to MySQL, creates a `Statement`, execut
 * Maven
 * IntelliJ IDEA
 
-## How It Works
+## How It Works  
 
 ### 1. Establish Database Connection
 
